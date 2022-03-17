@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/smooth_scroll_react/static/css/main.5cd99b22.css",
+    "main.js": "/smooth_scroll_react/static/js/main.e74913a5.js",
+    "static/media/video.mp4": "/smooth_scroll_react/static/media/video.7d1ea6a94986d5c2a068.mp4",
+    "static/media/svg-4.svg": "/smooth_scroll_react/static/media/svg-4.74bd869a5c5df7b0eb28c329bdd38fcb.svg",
+    "static/media/svg-6.svg": "/smooth_scroll_react/static/media/svg-6.e6b6cb43c42975b4b6ec4d04fa2a0247.svg",
+    "static/media/svg-1.svg": "/smooth_scroll_react/static/media/svg-1.fd81201ad6840d740aed3883b2ca2945.svg",
+    "static/media/svg-3.svg": "/smooth_scroll_react/static/media/svg-3.fb10b93d0712688c7400a8e5de1a0c9c.svg",
+    "static/media/svg-5.svg": "/smooth_scroll_react/static/media/svg-5.0ab73f47692cf57ff39cfc6abc49e77a.svg",
+    "static/media/svg-2.svg": "/smooth_scroll_react/static/media/svg-2.781a61a4d07d88b2e9b5b9a44af8b0c2.svg",
+    "index.html": "/smooth_scroll_react/index.html",
+    "main.5cd99b22.css.map": "/smooth_scroll_react/static/css/main.5cd99b22.css.map",
+    "main.e74913a5.js.map": "/smooth_scroll_react/static/js/main.e74913a5.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5cd99b22.css",
+    "static/js/main.e74913a5.js"
+  ]
+}
